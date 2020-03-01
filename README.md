@@ -16,3 +16,4 @@ git add .
 git commit -m "备注" 
 git push -u origin master 
 git commit --amend --no-edit 追加
+s
